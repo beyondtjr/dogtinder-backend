@@ -8,33 +8,33 @@
 
 dogs_attributes = [
         {
-          id: 1,
           name: 'Fido',
           age: 2,
-          enjoys: "Chasing pigeons at the park"
+          enjoys: "Chasing pigeons at the park",
+          picture: "insert picture here 1 "
         },
         {
-          id: 2,
           name: 'Max',
           age: 4,
-          enjoys: "Swimming in neighbors pool"
+          enjoys: "Swimming in neighbors pool",
+          picture: "insert picture here 1 "
         },
         {
-          id: 3,
           name: 'Bolt',
           age: 12,
-          enjoys: "Wearing Pikachu costumes"
+          enjoys: "Wearing Pikachu costumes",
+          picture: "insert picture here 1 "
         },
         {
-          id: 4,
           name: 'Gamjachib',
           age: 1,
-          enjoys: "being a potato chip"
+          enjoys: "being a potato chip",
+          picture: "insert picture here 1 "
         },
         {
-          id: 5,
           name: 'Air Bud',
-          age:
+          age: 3,
+          picture: "insert picture here 1 "
         }
       ]
 
