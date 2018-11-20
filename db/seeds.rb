@@ -34,6 +34,7 @@ dogs_attributes = [
         {
           name: 'Air Bud',
           age: 3,
+          enjoys: "Playing Basketball",
           picture: "insert picture here 1 "
         }
       ]
